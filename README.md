@@ -6,7 +6,7 @@
 This project demonstrates an end-to-end GAAP-aligned SaaS financial analysis built entirely in Power BI. It showcases advanced data modeling, Power Query transformations, and DAX techniques to calculate and analyze core SaaS metrics such as MRR, ARR, churn, retention, cohorts, unit economics, profitability, and cash flow.
 The project is designed to mirror real-world FP&A, RevOps, and SaaS analytics workflows, with all KPIs calculated from first principles (no pre-aggregated metrics in the dataset).
 
-**Project Link:** 
+**Dashboard Link:** https://app.powerbi.com/links/KeaaAPGqe-?ctid=f9afa6d3-a503-44b2-91da-b801e2cc43b6&pbi_source=linkShare&bookmarkGuid=9f7de6ff-b0d1-4313-994f-5d5f79ad728a 
 
 **Objectives**
 
